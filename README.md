@@ -54,3 +54,18 @@ Suggest free ai apis to do this.
 Is it possible to do it with google gemini free api? Can you suggest only free apis to convert this if possible?
 Also, how will we fetch the audio of the youtube video.
 Also suggest a good free vector db to do this.
+
+
+------
+RAG with youtube videos.
+
+
+I am building a RAG NextJS app, where
+- you can ask anything about the youtube video(the one which have captions), the app will return the response with the timestamps.
+- you can ask anything from the yt comments (to feel like you are discussing with the audience).
+- generate timestamps according to the topics
+- generate slides from the video and download them.
+Please star on github(building right now) 
+https://github.com/AnshulKahar2729/ai-youtube-assistant
+
+Any other features/suggestion that can be build
